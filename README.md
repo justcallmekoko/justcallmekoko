@@ -1,4 +1,5 @@
 ### Hi there. You can just call me Koko
+[![HitCount](http://hits.dwyl.io/justcallmekoko/badges.svg)](http://hits.dwyl.io/justcallmekoko/badges)
 
 ## I make things. I also make stuff.
 - 🔭 I’m currently working on embedded technology
