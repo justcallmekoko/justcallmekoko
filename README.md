@@ -13,6 +13,11 @@
 
 ### Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [New Arduino Music Visualizer](https://www.youtube.com/watch?v=q1n5DrI3NOo)
+- [Xbox Rapid Fire Mod with Wifi](https://www.youtube.com/watch?v=Ci7KqMRJ9D4)
+- [RGB Shades With Arduino](https://www.youtube.com/watch?v=CqkNGTsWTIE)
+- [ESP32 Marauder: Wifi and Bluetooth Pentesting Tool](https://www.youtube.com/watch?v=BGFO1wA29o8)
+- [Making a Flex Seal Play Button for One Thousand Subscribers](https://www.youtube.com/watch?v=8TjliWAqDOU)
 <!-- YOUTUBE:END -->
 
 
