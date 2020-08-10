@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there. You can just call me Koko
+
+## I make things. I also make stuff.
+
+
+### Other contact: 
+
+[<img align="left" alt="justcallmekoko | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="justcallmekoko | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="justcallmekoko | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <!--
 **justcallmekoko/justcallmekoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
