@@ -3,11 +3,7 @@
 ## I make things. I also make stuff.
 - 🔭 I’m currently working on embedded technology
 - 🌱 I’m currently learning Ansible
-<!-- - 👯 I’m looking to collaborate on: ... -->
 - 🤔 I’m looking for help with graphics libraries
-<!-- - 💬 Ask me about ... -->
-<!-- - 📫 How to reach me: ... -->
-<!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: ...
 
 
@@ -19,6 +15,8 @@
 
 <br />
 
+--- 
+
 ### Latest YouTube Videos:
 <!-- YOUTUBE:START -->
 - [New Arduino Music Visualizer](https://www.youtube.com/watch?v=q1n5DrI3NOo)
@@ -28,9 +26,9 @@
 - [Making a Flex Seal Play Button for One Thousand Subscribers](https://www.youtube.com/watch?v=8TjliWAqDOU)
 <!-- YOUTUBE:END -->
 
----
+--- 
 
-<img align="left" alt="justcallmekoko's Github Stats" src="https://github-readme-stats.justcallmekoko.vercel.app/api?username=justcallmekoko&show_icons=true&hide_border=truetheme=tokyonight" />
+<img align="left" alt="justcallmekoko's Github Stats" src="https://github-readme-stats.vercel.app/api?username=justcallmekoko&show_icons=true&hide_border=true&theme=radical" />
 
 [twitter]: https://twitter.com/jcmkyoutube
 [youtube]: https://youtube.com/justcallmekoko
