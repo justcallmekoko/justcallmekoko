@@ -1,5 +1,10 @@
 ### You can just call me Koko
 Catch my live stream on [Twitch](https://www.twitch.tv/willstunforfood) where I play games, have just chatting sessions to talk tech, and just generally be an ordinary person who can't figure out how to make proper life decisions.
+  
+  Stream Schedule:  
+    Mon: 1800 - 2000 EST  
+    Wed: 1800 - 2000 EST  
+    Sun: 1200 - 1400 EST  
 
 [![HitCount](http://hits.dwyl.io/justcallmekoko/badges.svg)](http://hits.dwyl.io/justcallmekoko/badges)
 
@@ -36,7 +41,7 @@ Catch my live stream on [Twitch](https://www.twitch.tv/willstunforfood) where I 
 [twitter]: https://twitter.com/jcmkyoutube
 [youtube]: https://youtube.com/justcallmekoko
 [instagram]: https://instagram.com/just.call.me.koko
-
+*
 <!--
 **justcallmekoko/justcallmekoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
