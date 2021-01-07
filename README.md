@@ -1,4 +1,6 @@
-### Hi there. You can just call me Koko
+### You can just call me Koko
+Catch my live stream on [Twitch](https://www.twitch.tv/willstunforfood) where I play games, have just chatting sessions to talk tech, and just generally be an ordinary person who can't figure out how to make proper life decisions.
+
 [![HitCount](http://hits.dwyl.io/justcallmekoko/badges.svg)](http://hits.dwyl.io/justcallmekoko/badges)
 
 ## I make things. I also make stuff.
