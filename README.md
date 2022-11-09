@@ -1,25 +1,26 @@
-### You can just call me Koko
-Catch my live stream on [Twitch](https://www.twitch.tv/willstunforfood) where I play games, have just chatting sessions to talk tech, and just generally be an ordinary person who can't figure out how to make proper life decisions.
-  
-  Stream Schedule:  
-    Mon: 1800 - 2000 EST  
-    Wed: 1800 - 2000 EST  
-    Sun: 1200 - 1400 EST  
+### JustCallMeKoko
+### Things that tickle my fancy
+- 🔫Guns
+- 💻Software/Firmware development
+- 🖨️3D Printing
+- 🚁LARPing like a mf
+- 😰Developing myself out of a job
 
-[![HitCount](http://hits.dwyl.io/justcallmekoko/badges.svg)](http://hits.dwyl.io/justcallmekoko/badges)
+### Links and contacts
+- **Discord:** [WillStunForFood](https://discord.com/servers/willstunforfood-776211399918878760)
+- **Twitch:** [WillStunFoodFood](https://twitch.tv/willstunforfood)
+- **YouTube:** [JustCallMeKoko](https://youtube.com/justcallmekoko)
+- **TikTok:** [just.call.me.koko](https://www.tiktok.com/@just.call.me.koko)
+- **Instagram:** [just.call.me.koko](https://www.instagram.com/just.call.me.koko/)
+- **Patreon:** [JustCallMeKoko](https://www.patreon.com/justcallmekoko)
 
-## I make things. I also make stuff.
-- 🔭 I’m currently working on embedded technology
-- 🌱 I’m currently learning Ansible
-- 🤔 I’m looking for help with graphics libraries
-- ⚡ Fun fact: ...
-
-
-### 📫 Other contact: 
-
-[<img align="left" alt="justcallmekoko | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="justcallmekoko | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="justcallmekoko | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### Store
+- **Tindie:** https://www.tindie.com/stores/justcallmekoko/
+- **OG Marauder:** https://www.tindie.com/products/justcallmekoko/esp32-marauder/
+- **Marauder Mini:** https://www.tindie.com/products/justcallmekoko/esp32-marauder-mini/
+- **BPNVG Parts:** https://www.tindie.com/products/justcallmekoko/bpnvg-3d-printed-night-vision-goggles/
+- **Flipper Zero Dev Board Enclosure:** https://www.tindie.com/products/justcallmekoko/flipper-zero-wifi-dev-board-enclosure/
+- **Complete 3D Printed NVG Units:** https://www.tindie.com/products/justcallmekoko/3d-printed-night-vision-goggles-assembled/ 
 
 <br />
 
