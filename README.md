@@ -10,7 +10,7 @@
 - **Discord:** [WillStunForFood](https://discord.com/servers/willstunforfood-776211399918878760)
 - **Twitch:** [WillStunForFood](https://twitch.tv/willstunforfood)
 - **YouTube:** [JustCallMeKoko](https://youtube.com/justcallmekoko)
-- **TikTok:** [just.call.me.koko](https://www.tiktok.com/@just.call.me.koko)
+- **TikTok:** [just.call.me.koko.rip](https://www.tiktok.com/@just.call.me.koko.rip)
 - **Instagram:** [just.call.me.koko](https://www.instagram.com/just.call.me.koko/)
 - **Patreon:** [JustCallMeKoko](https://www.patreon.com/justcallmekoko)
 
